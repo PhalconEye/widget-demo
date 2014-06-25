@@ -1,14 +1,14 @@
 {
-    "name": "phalconeye/module-user",
-    "type": "phalconeye-module",
-    "description" : "PhalconEye User module",
-    "keywords" : [ "phalcon", "phalconeye", "user", "module" ],
+    "name": "phalconeye/widget-demo",
+    "type": "phalconeye-widget",
+    "description" : "PhalconEye Demo widget",
+    "keywords" : [ "phalcon", "phalconeye", "demo", "widget" ],
     "homepage" : "http://phalconeye.com",
     "license" : "BSD-3-Clause",
     "require" : {
         "php" : ">=5.4.20"
     },
     "extra": {
-        "name": "User"
+        "name": "Demo"
     }
 }
